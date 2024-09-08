@@ -34,7 +34,7 @@
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url from mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://uploaderbot:uploaderbot@cluster0.koh1t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
